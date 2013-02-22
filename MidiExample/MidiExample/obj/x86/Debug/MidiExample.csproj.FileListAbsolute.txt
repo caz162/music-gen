@@ -1,0 +1,11 @@
+C:\Users\Caz\Documents\VS\MidiExample\MidiExample\bin\Debug\MidiExample.exe
+C:\Users\Caz\Documents\VS\MidiExample\MidiExample\bin\Debug\MidiExample.pdb
+C:\Users\Caz\Documents\VS\MidiExample\MidiExample\bin\Debug\Midi.dll
+C:\Users\Caz\Documents\VS\MidiExample\MidiExample\bin\Debug\Midi.xml
+C:\Users\Caz\Documents\VS\MidiExample\MidiExample\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Caz\Documents\VS\MidiExample\MidiExample\obj\x86\Debug\MidiExample.Form1.resources
+C:\Users\Caz\Documents\VS\MidiExample\MidiExample\obj\x86\Debug\MidiExample.Properties.Resources.resources
+C:\Users\Caz\Documents\VS\MidiExample\MidiExample\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Caz\Documents\VS\MidiExample\MidiExample\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Caz\Documents\VS\MidiExample\MidiExample\obj\x86\Debug\MidiExample.exe
+C:\Users\Caz\Documents\VS\MidiExample\MidiExample\obj\x86\Debug\MidiExample.pdb
